@@ -8,7 +8,8 @@ public class Calc {
         return x-y;
     }
     //dev
-
+    public double dev(double x , double y) {
+        return x/y;
     //mul
 
 }
