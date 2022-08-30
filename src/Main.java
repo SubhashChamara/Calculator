@@ -3,5 +3,7 @@ public class Main {
 
         System.out.println("Hello world!");
 
+        Calc calc = new Calc();
+        System.out.println(calc.add(10,5));
     }
 }
