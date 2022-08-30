@@ -1,6 +1,19 @@
 package com.javasession.cal;
 
-public class SquareCalculate {
+public class Rectangle{
+
+    public Rectangle(int hight, int width) {
+        this.hight = hight;
+        this.width = width;
+    }
+
+
+
+//    public SquareCalculate(int hight,int width){
+//        this.hight=hight;
+//        this.width=width;
+
+
     public int getHight() {
         return hight;
     }
