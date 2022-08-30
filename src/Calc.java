@@ -4,7 +4,9 @@ public class Calc {
         return x+y;
     }
     //sub
-
+    public int sub(int x , int y) {
+        return x-y;
+    }
     //dev
 
     //mul
